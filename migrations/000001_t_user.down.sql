@@ -1,0 +1,7 @@
+BEGIN;
+
+DROP TABLE IF EXISTS t_user;
+
+DROP TABLE IF EXISTS t_user_transaction;
+
+COMMIT;
